@@ -2,5 +2,25 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/AI-CodeCompass" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/Awesome-Issue-Solving" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/Basic-to-Advanced-Optimization-Tutorial-with-PuLP-Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/LLM-Agent-SE-Survey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/LumiX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/OpenHands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/PyEPO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/SWE-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/agent-claude-refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/agent-skills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/claude-code-recipes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/claude-orchestra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/kiss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/modeling-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/multi-agent-with-mcp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/refrax" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/repomind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/sexy-code-machine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/skills-mcp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github/skills-server" vcs="Git" />
   </component>
 </project>
